@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(52, 190, 190);
+}
+label {
+    font-family: sans-serif;
+    text-shadow: 2 4 1;
+    
+}
+input {
+    background-color: rgb(89, 112, 124);
+    border-color: black;
+    border-radius: 2%;
+    
+}
